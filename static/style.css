@@ -1,0 +1,36 @@
+        
+        body{
+background-image: url("/static/image.png");
+            background-size: cover;
+            background-position: center;
+            background-attachment: fixed;
+            margin-top: 100px;
+            margin-bottom: 100px;
+            margin-left: 500px;
+            margin-right: 150px;  
+        }
+        
+        h1{
+            margin-left: 100px;
+        }
+        input{
+            width: 70%;
+            padding: 12px 20px;
+            margin: 8px 0;
+            box-sizing: border-box;
+            border-bottom: 4px solid black;
+        }
+        button{
+            width: 70%;
+            background-color: rgb(19, 180, 30);
+            color: white;
+            padding: 14px 20px;
+            text-align: center;
+            margin: 8px 0;
+            border: none;
+            cursor: pointer;
+        }
+        #result{
+            margin-left: 60px;
+            color: white;
+        }
